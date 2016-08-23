@@ -15,7 +15,8 @@ public class Route {
         // TODO Auto-generated constructor stub
         this.voies = new ArrayList<Voie>();
     }
-
+	
+	//Constructeur route
     public Route( int numero, String nom ) {
         this.numero = numero;
         this.nom = nom;
